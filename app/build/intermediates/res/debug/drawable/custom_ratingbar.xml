@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@android:id/background"
+        android:drawable="@drawable/custom_ratingbar_empty" />
+    <item android:id="@android:id/secondaryProgress"
+        android:drawable="@drawable/custom_ratingbar_empty" />
+    <item android:id="@android:id/progress"
+        android:drawable="@drawable/custom_ratingbar_filled" />
+</layer-list><!-- From: file:/home/wah/Documents/Untitled%20Folder/Appeti_App_DEV/appeti_android/app/src/main/res/drawable/custom_ratingbar.xml -->

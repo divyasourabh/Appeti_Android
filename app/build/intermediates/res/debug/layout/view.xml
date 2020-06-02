@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <view
+        android:id="@+id/divider"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#000000"></view>
+
+</LinearLayout><!-- From: file:/home/wah/Documents/Untitled%20Folder/Appeti_App_DEV/appeti_android/app/src/main/res/layout/view.xml -->
